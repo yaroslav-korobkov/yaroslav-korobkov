@@ -20,4 +20,3 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" width="40" height="40" alt="YandexMail"/>
     </a>
   </div>
----
