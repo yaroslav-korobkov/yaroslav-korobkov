@@ -13,10 +13,10 @@
 ---
 ### 🤝 Связаться со мной:
    <div id="badges">
-    <a href="mailto:y@roslav-korobkov.ru" target="_blank">
+    <a href="https://t.me/yarboxes" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-    <a href="" target="_blank">
+    <a href="mailto:y@roslav-korobkov.ru" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" width="40" height="40" alt="YandexMail"/>
     </a>
   </div>
