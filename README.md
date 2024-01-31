@@ -26,10 +26,11 @@
 ### 🛠️ Технологии и инструменты:
 
 <p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="48"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="Matplotlib" width="48"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="48"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48"/>
