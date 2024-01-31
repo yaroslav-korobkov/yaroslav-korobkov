@@ -38,6 +38,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/spacy/spacy-original.svg" alt="Spacy" width="48"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" width="48"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="48" />   
 </p>
 
 
