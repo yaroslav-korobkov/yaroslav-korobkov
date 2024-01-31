@@ -20,3 +20,24 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" width="40" height="40" alt="YandexMail"/>
     </a>
   </div>
+  
+---
+
+### 🛠️ Технологии и инструменты:
+
+<p align="center">
+    <img src="https://img.icons8.com/color/python.png" alt="Python"/>
+    <img src="https://img.icons8.com/color/pandas.png" alt="Pandas"/>
+    <img src="https://img.icons8.com/color/numpy.png" alt="NumPy"/>
+    <img src="https://img.icons8.com/color/matplotlib" alt="Matplotlib"/>
+    <img src="https://img.icons8.com/color/scikit-learn.png" alt="Scikit-learn"/>
+    <img src="https://img.icons8.com/color/postgreesql.png" alt="PostgreSQL"/>
+    <img src="https://img.icons8.com/color/pytorch.png" alt="PyTorch"/>
+    <img src="https://img.icons8.com/color/tensorflow.png" alt="TensorFlow"/>
+    <img src="https://img.icons8.com/color/scipy.png" alt="SciPy"/>
+    <img src="https://img.icons8.com/color/spacy.png" alt="Spacy"/>
+    <img src="https://img.icons8.com/color/keras.png" alt="Keras"/>
+    <img src="https://img.icons8.com/color/jupyter-notebook.png" alt="Jupyter Notebook"/>
+</p>
+
+
