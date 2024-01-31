@@ -23,21 +23,27 @@
   
 ---
 
-### 🛠️ Технологии и инструменты:
+### 🛠️ Технологии:
 
 <p align="center">
-    <img src="https://img.icons8.com/color/python.png" alt="Python"/>
-    <img src="https://img.icons8.com/color/pandas.png" alt="Pandas"/>
-    <img src="https://img.icons8.com/color/numpy.png" alt="NumPy"/>
-    <img src="https://img.icons8.com/color/matplotlib" alt="Matplotlib"/>
-    <img src="https://img.icons8.com/color/scikit-learn.png" alt="Scikit-learn"/>
-    <img src="https://img.icons8.com/color/postgreesql.png" alt="PostgreSQL"/>
-    <img src="https://img.icons8.com/color/pytorch.png" alt="PyTorch"/>
-    <img src="https://img.icons8.com/color/tensorflow.png" alt="TensorFlow"/>
-    <img src="https://img.icons8.com/color/scipy.png" alt="SciPy"/>
-    <img src="https://img.icons8.com/color/spacy.png" alt="Spacy"/>
-    <img src="https://img.icons8.com/color/keras.png" alt="Keras"/>
-    <img src="https://img.icons8.com/color/jupyter-notebook.png" alt="Jupyter Notebook"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="48"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas" width="48"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" alt="NumPy" width="48"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" alt="Matplotlib" width="48"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikit-learn.svg" alt="Scikit-learn" width="48"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="PostgreSQL" width="48"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" alt="PyTorch" width="48"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" alt="TensorFlow" width="48"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" alt="SciPy" width="48"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spacy.svg" alt="Spacy" width="48"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" alt="Keras" width="48"/>
 </p>
+
+### 🧰 Инструменты:
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" alt="Jupyter Notebook" width="48"/>
+</p>
+
 
 
