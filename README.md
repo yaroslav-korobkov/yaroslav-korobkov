@@ -26,19 +26,20 @@
 ### 🛠️ Технологии и инструменты:
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="48"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas" width="48"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" alt="NumPy" width="48"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" alt="Matplotlib" width="48"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikit-learn.svg" alt="Scikit-learn" width="48"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="PostgreSQL" width="48"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" alt="PyTorch" width="48"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" alt="TensorFlow" width="48"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" alt="SciPy" width="48"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spacy.svg" alt="Spacy" width="48"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" alt="Keras" width="48"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" alt="Jupyter Notebook" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scipy/scipy-original.svg" alt="SciPy" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spacy/spacy-original.svg" alt="Spacy" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" width="48"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="48"/>
 </p>
+
 
 
 
