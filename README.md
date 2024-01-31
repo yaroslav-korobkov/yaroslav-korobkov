@@ -23,7 +23,7 @@
   
 ---
 
-### 🛠️ Технологии:
+### 🛠️ Технологии и инструменты:
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="48"/>
@@ -37,13 +37,9 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" alt="SciPy" width="48"/>
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spacy.svg" alt="Spacy" width="48"/>
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" alt="Keras" width="48"/>
-</p>
-
-### 🧰 Инструменты:
-
-<p align="center">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" alt="Jupyter Notebook" width="48"/>
 </p>
+
 
 
 
