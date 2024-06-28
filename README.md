@@ -10,14 +10,19 @@
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
+
 ---
+
 ### 🤝 Связаться со мной:
    <div id="badges">
     <a href="https://t.me/yarboxes" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram" />
     </a>
     <a href="mailto:y@roslav-korobkov.ru" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" width="40" height="40" alt="YandexMail"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" width="50" height="50" alt="YandexMail"/>
+    </a>
+    <a href="www.linkedin.com/in/ярослав-коробков-9b644b2b4" target="_blank">
+      <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100" height="40" alt="LinkedIn"/>
     </a>
   </div>
   
