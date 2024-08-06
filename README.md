@@ -22,7 +22,7 @@
     <a href="mailto:y@roslav-korobkov.ru" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" width="50" height="50" alt="YandexMail"/>
     </a>
-    <a href="www.linkedin.com/in/yaroslav-korobkov" target="_blank">
+    <a href="https://www.linkedin.com/in/yaroslav-korobkov" target="_blank">
       <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100" height="40" alt="LinkedIn"/>
     </a>
   </div>
